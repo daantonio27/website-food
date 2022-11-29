@@ -37,6 +37,10 @@
   }
 }
 
+#chefs-section h5, p{
+    text-align: center;
+  }
+
 #blog-section {
   padding: 5rem 0;
 }
